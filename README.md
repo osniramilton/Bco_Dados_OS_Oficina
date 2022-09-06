@@ -1,2 +1,3 @@
-# Bco_Dados_OS_Oficina
-Modelo Conceitual
+# Bco_Dados_OS_Oficin
+
+Esquema conceitual para contextode OS para oficina  
